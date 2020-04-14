@@ -1,2 +1,2 @@
 # Coding-Exercises
-A folder to practice solving problem
+clone from a resource of a Udemy course to practice coding
